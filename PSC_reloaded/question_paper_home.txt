@@ -6,7 +6,7 @@
 "name" : "വനിതാ പോലീസ് കോൺസ്റ്റബിൾ ","date":"10-04-19","question_no" : "100",
 "status" : "1"},
 {"id" : "3",
-"url" : "https://github.com/saneeshmssngist/psc_datas/blob/master/PSC_reloaded/Question_papers/question_paper3.txt",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Question_papers/question_paper3.txt",
 "name" : "വനിതാ പോലീസ് കോൺസ്റ്റബിൾ കെ എ പി -1 ","date":"10-02-19","question_no" : "100",
 "status" : "1"}
 ],"code":"100"}
