@@ -1,8 +1,8 @@
 {"status":"Success","data":
-["https://drive.google.com/open?id=1NTTN8ee22y8EX2nBp1VyXxqjY8mlfSry",
-"https://drive.google.com/open?id=1kSP1hMTD8aGQXWq4etsg6qfJtHf337eK",
-"https://drive.google.com/open?id=1spy7Wxk8cWtRgrtdQvKKMOT4YFnDhKlZ",
-"https://drive.google.com/open?id=1YrvVLXjHCgtqxN7G5s61PaWfF9Wsp9YM",
-"https://drive.google.com/open?id=1aYwaMkTVvp2GXvhcyiNktZIb4HkbF2Jm",
-"https://drive.google.com/open?id=1G_dJfk1OzCQ-myHoJ_FufTS2HpeHy0GJ",
+["https://docs.google.com/uc?id=1NTTN8ee22y8EX2nBp1VyXxqjY8mlfSry",
+"https://docs.google.com/uc?id=1kSP1hMTD8aGQXWq4etsg6qfJtHf337eK",
+"https://docs.google.com/uc?id=1spy7Wxk8cWtRgrtdQvKKMOT4YFnDhKlZ",
+"https://docs.google.com/uc?id=1YrvVLXjHCgtqxN7G5s61PaWfF9Wsp9YM",
+"https://docs.google.com/uc?id=1aYwaMkTVvp2GXvhcyiNktZIb4HkbF2Jm",
+"https://docs.google.com/uc?id=1G_dJfk1OzCQ-myHoJ_FufTS2HpeHy0GJ",
 ],"code":"100"}
