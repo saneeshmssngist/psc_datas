@@ -1,5 +1,11 @@
 {"status":"Success","data":[
 {"id":"1",
-"name":"Records1"
-"url" :""},
+"name":"Records1",
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page1.txt"},
+{"id":"2",
+"name":"Records2",
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page2.txt"},
+{"id":"3",
+"name":"Records3",
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page3.txt"}
 ],"code":"100"}
