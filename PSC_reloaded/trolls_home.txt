@@ -46,6 +46,6 @@
 "url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page8.txt",
 "first_url" : "https://docs.google.com/uc?id=1BikluAJPVhTawKXfRnZAOJMQwtDL928V",
 "date" : "10-April-2019",
-"content_size" : "10"},
+"content_size" : "10"}
 ],"code":"100"}
 
