@@ -1,15 +1,27 @@
 {"status":"Success","data":[
 {"id":"1",
 "name":"Records1",
-"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page1.txt"},
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page1.txt",
+"first_url" : "https://docs.google.com/uc?id=1B13dHIOv9FNKTe09AqAu6TBwMmZMhtg2",
+"date" : "24-March-2019",
+"content_size" : "10"},
 {"id":"2",
 "name":"Records2",
-"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page2.txt"},
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page2.txt",
+"first_url" : "https://docs.google.com/uc?id=1YrvVLXjHCgtqxN7G5s61PaWfF9Wsp9YM",
+"date" : "26-March-2019",
+"content_size" : "10"},
 {"id":"3",
 "name":"Records3",
-"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page3.txt"},
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page3.txt",
+"first_url" : "https://docs.google.com/uc?id=1Wkd1ORfb8AUv8HdzHodD81P_2190iUpd",
+"date" : "29-March-2019",
+"content_size" : "10"},
 {"id":"4",
 "name":"Records4",
-"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page4.txt"}
-],"code":"100"},
+"url" :"https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Trolls/troll_page4.txt",
+"first_url" : "https://docs.google.com/uc?id=1S8Mto4Co8JttJLWeE-Uki7IoG5ziXpQC",
+"date" : "30-March-2019",
+"content_size" : "10"}
+],"code":"100"}
 
