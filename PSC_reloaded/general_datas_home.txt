@@ -13,7 +13,7 @@
 {"id" : "6",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_sports.txt"},
 {"id" : "7",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_naths.txt"},
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_maths.txt"},
 {"id" : "8",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_movie.txt"},
 {"id" : "9",
