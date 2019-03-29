@@ -1,9 +1,25 @@
 {"status":"Success",
 "data":[
 {"id" : "1",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_geography.txt"},
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_kerala.txt"},
 {"id" : "2",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_history.txt"}
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_india.txt"},
+{"id" : "3",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_world.txt"},
+{"id" : "4",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_history.txt"},
+{"id" : "5",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_geography.txt"},
+{"id" : "6",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_sports.txt"},
+{"id" : "7",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_naths.txt"},
+{"id" : "8",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_movie.txt"},
+{"id" : "9",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_science.txt"},
+{"id" : "10",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/General_datas/general_literature.txt"}
 ],
 "code" : "100"
 }
