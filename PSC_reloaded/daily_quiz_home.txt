@@ -1,0 +1,10 @@
+    
+{"status":"Success",
+"data":[
+{"id" : "1",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
+"date" : "01-04-2019 10:00:00",
+"data" : "Monday Daily quiz is ready for you ."
+}],
+"code" : "100"
+}
