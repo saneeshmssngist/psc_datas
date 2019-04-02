@@ -4,12 +4,14 @@
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
 "date" : "02-04-2019 23:55:00",
-"data" : "Monday Daily quiz is ready for you ."
+"data" : "Monday Daily quiz is ready for you .",
+"status" : "0"
 },
 {"id" : "2",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
 "date" : "03-04-2019 00:30:00",
-"data" : "Monday Daily quiz is ready for you ."
+"data" : "Monday Daily quiz is ready for you .",
+"status" : "1"
 }],
 "code" : "100"
 }
