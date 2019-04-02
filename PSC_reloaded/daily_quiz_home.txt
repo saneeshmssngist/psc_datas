@@ -5,12 +5,14 @@
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
 "date" : "03-04-2019 00:40:00",
 "data" : "Monday Daily quiz is ready for you .",
+"time" : "7.00 PM",
 "status" : "0"
 },
 {"id" : "2",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
 "date" : "03-04-2019 00:30:00",
 "data" : "Monday Daily quiz is ready for you .",
+"time" : "9.00 PM",
 "status" : "0"
 }],
 "code" : "100"
