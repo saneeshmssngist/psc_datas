@@ -3,14 +3,14 @@
 "data":[
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
-"date" : "03-04-2019 23:30:00",
+"date" : "06-04-2019 23:30:00",
 "data" : "Monday Daily quiz is ready for you",
 "time" : "7.00 PM",
 "status" : "0"
 },
 {"id" : "2",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
-"date" : "03-04-2019 21:30:00",
+"date" : "06-04-2019 10:30:00",
 "data" : "Monday Daily quiz is ready for you",
 "time" : "9.00 PM",
 "status" : "0"
