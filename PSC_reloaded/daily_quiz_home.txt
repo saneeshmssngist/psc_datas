@@ -4,7 +4,7 @@
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_1.txt",
 "date" : "07-04-2019 12:30:00",
-"data" : "Are you ready to play the quiz ??",
+"data" : "Quiz available to you after ",
 "time" : "12.00 PM",
 "status" : "0"
 },
