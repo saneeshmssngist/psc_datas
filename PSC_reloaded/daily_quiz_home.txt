@@ -1,19 +1,34 @@
     
 {"status":"Success",
 "data":[
+
 {"id" : "1",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_fri2.txt",
-"date" : "19-04-2019 21:00:00",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sat1.txt",
+"date" : "20-04-2019 21:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "09.00 PM",
 "status" : "0"
 },
 {"id" : "1",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_fri1.txt",
-"date" : "19-04-2019 19:00:00",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sat2.txt",
+"date" : "20-04-2019 19:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "07.00 PM",
 "status" : "0"
+},
+{"id" : "1",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_fri2.txt",
+"date" : "19-04-2019 21:00:00",
+"data" : "Friday",
+"time" : "09.00 PM",
+"status" : "1"
+},
+{"id" : "1",
+"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_fri1.txt",
+"date" : "19-04-2019 19:00:00",
+"data" : "Friday",
+"time" : "07.00 PM",
+"status" : "1"
 },
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_thurs1.txt",
@@ -69,20 +84,6 @@
 "date" : "14-04-2019 21:00:00",
 "data" : "Sunday",
 "time" : "9.00 PM",
-"status" : "1"
-},
-{"id" : "1",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sat1.txt",
-"date" : "13-04-2019 21:00:00",
-"data" : "Saturday",
-"time" : "09.00 PM",
-"status" : "1"
-},
-{"id" : "1",
-"url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sat2.txt",
-"date" : "13-04-2019 19:00:00",
-"data" : "Saturday",
-"time" : "07.00 PM",
 "status" : "1"
 }
 ],
