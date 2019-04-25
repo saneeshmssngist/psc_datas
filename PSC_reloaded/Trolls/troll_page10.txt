@@ -1,6 +1,5 @@
 {"status":"Success","data":
-["https://docs.google.com/uc?id=1BikluAJPVhTawKXfRnZAOJMQwtDL928V",
-"https://docs.google.com/uc?id=1DsEa4ajbEM5PT_NMohy8Dt33rwuIoZt7",
+["https://docs.google.com/uc?id=1DsEa4ajbEM5PT_NMohy8Dt33rwuIoZt7",
 "https://docs.google.com/uc?id=1unelFOYvYrKUlINUAjWNv8Fu-AmSlQOj",
 "https://docs.google.com/uc?id=1hTOQWtLcaWHi14tCHpp6X7mQk9AizcDE",
 "https://docs.google.com/uc?id=1kfEVq84RSGE9COI9SZ8K75FBxqvJqkq0",
