@@ -6,14 +6,14 @@
 "date" : "30-04-2019 19:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "07.00 PM",
-"status" : "1"
+"status" : "0"
 },
 {"id" : "2",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_tues2.txt",
 "date" : "30-04-2019 21:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "09.00 PM",
-"status" : "1"
+"status" : "0"
 },
 {"id" : "3",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sun1.txt",
