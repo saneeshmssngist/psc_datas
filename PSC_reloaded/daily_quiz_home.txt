@@ -47,7 +47,7 @@
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_fri2.txt",
 "date" : "10-05-2019 21:00:00",
 "data" : "Friday",
-"time" : "09.00 PM",
+"time" : "09.00PM",
 "status" : "1"
 },
 {"id" : "1",
