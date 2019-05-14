@@ -6,28 +6,28 @@
 "date" : "14-05-2019 16:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "04.00 PM",
-"status" : "1"
+"status" : "0"
 },
 {"id" : "2",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_tues2.txt",
 "date" : "14-05-2019 19:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "07.00 PM",
-"status" : "1"
+"status" : "0"
 },
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_mon1.txt",
 "date" : "13-05-2019 08:00:00",
 "data" : "Monday",
 "time" : "08.00 AM",
-"status" : "0"
+"status" : "1"
 },
 {"id" : "2",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_mon2.txt",
 "date" : "13-05-2019 21:00:00",
 "data" : "Monday",
 "time" : "09.00 PM",
-"status" : "0"
+"status" : "1"
 },
 {"id" : "3",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sun1.txt",
