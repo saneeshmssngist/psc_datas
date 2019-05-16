@@ -3,7 +3,7 @@
 "data":[
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_thurs1.txt",
-"date" : "16-04-2019 20:00:00",
+"date" : "16-05-2019 20:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "08.00 PM",
 "status" : "0"
