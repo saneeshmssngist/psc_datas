@@ -1,7 +1,6 @@
     
 {"status":"Success",
 "data":[
-,
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_thurs1.txt",
 "date" : "16-04-2019 20:00:00",
@@ -15,7 +14,7 @@
 "data" : "Daily quiz available to you after",
 "time" : "05.00 PM",
 "status" : "0"
-}
+},
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_tues1.txt",
 "date" : "14-05-2019 16:00:00",
