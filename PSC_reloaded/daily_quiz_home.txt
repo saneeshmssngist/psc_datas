@@ -4,14 +4,14 @@
 
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sat1.txt",
-"date" : "26-05-2019 15:00:00",
+"date" : "25-05-2019 15:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "03.00 PM",
 "status" : "0"
 },
 {"id" : "1",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sat2.txt",
-"date" : "26-05-2019 10:00:00",
+"date" : "25-05-2019 10:00:00",
 "data" : "Daily quiz available to you after",
 "time" : "10.00 AM",
 "status" : "0"
