@@ -3,9 +3,9 @@
 "data":[
 {"id" : "3",
 "url" : "https://raw.githubusercontent.com/saneeshmssngist/psc_datas/master/PSC_reloaded/Daily_Quiz/daily_quiz_sun1.txt",
-"date" : "26-05-2019 16:00:00",
+"date" : "26-05-2019 10:00:00",
 "data" : "Daily quiz available to you after",
-"time" : "4.00 PM",
+"time" : "10.00 AM",
 "status" : "0"
 },
 {"id" : "4",
