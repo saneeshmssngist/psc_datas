@@ -1,1 +1,1 @@
-{"status":"Success","data":"6.252","code" : "200"}
+{"status":"Success","data":"6.252","code" : "100"}
