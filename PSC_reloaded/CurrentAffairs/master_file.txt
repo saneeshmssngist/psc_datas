@@ -1,1 +1,1 @@
-  {"status":"Success","data":[{"date":"02-05-2020","name":"Current affairs","question_no":"10"},{"date":"02-05-2020","name":"Current affairs","question_no":"10"},{"date":"02-05-2020","name":"Current affairs","question_no":"10"},{"date":"02-05-2020","name":"Current affairs","question_no":"10"}],"code":"100"}
+  {"status":"Success","data":[{"date":"03-07-2020","name":"Current affairs"},{"date":"02-07-2020","name":"Current affairs"},{"date":"01-07-2020","name":"Current affairs"},{"date":"30-06-2020","name":"Current affairs"}],"code":"100"}
